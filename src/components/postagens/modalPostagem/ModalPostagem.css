@@ -1,0 +1,12 @@
+.cursor{
+    cursor: pointer;
+}
+
+.btnModal{
+    border: 2px #FEFDCD !important;
+    background-color: #A0F2EE !important;
+    color: #F4A0BA !important;
+    font-family:Roboto Mono, monospace !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}

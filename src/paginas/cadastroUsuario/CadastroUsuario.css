@@ -1,0 +1,36 @@
+.imagem-cadastro{
+    margin-left: 80px;
+    width:495px;
+    height:653px; 
+    border-radius: 5%;
+    box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.48);
+}
+
+.imagem-cadastro2{
+    background-image: url('../../assets/img/page-3.jpg');
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos3{
+    font-weight: bold !important;
+    font-family:Roboto Mono, monospace !important;
+    color:#F4A0BA !important;
+    padding-top: 25%;
+}
+
+.botao2{
+    border-color: #7E4997 !important;
+    background-color: antiquewhite !important;
+    color: #7E4997 !important;
+    font-family:Roboto Mono, monospace !important;
+    margin-top: 30px;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+

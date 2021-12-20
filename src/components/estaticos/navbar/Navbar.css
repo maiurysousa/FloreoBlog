@@ -1,0 +1,22 @@
+.color-navbar{
+    background-color: #7DD7D8;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.fonte-f{
+    color: #F4A0BA !important;
+    font-family: Roboto Mono, monospace !important;
+}
+
+.fonte{
+    color: #FEFDCD;
+    font-family: Roboto Mono, monospace !important; 
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+
