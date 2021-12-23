@@ -76,7 +76,7 @@ function CadastroUsuario() {
     }
 
     return (
-        <Grid container direction='row' justifyContent='center' alignItems='center' className="caixa">
+        <Grid container direction='row' justifyContent='center' alignItems='center' className="caixa-cadastro">
             <Grid xs={6}  justifyContent='center' style={{ backgroundColor: "#ECCCFE" }}>
                 <img src="https://i.imgur.com/5cYYFbc.jpg" alt="" className="imagem-cadastro" />
             </Grid>
