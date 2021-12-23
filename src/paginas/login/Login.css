@@ -40,6 +40,11 @@
     margin-top: 30px;
 }
 
+.conta-txt{
+    font-family: Roboto Mono, monospace !important;
+    color: #000000 !iimportant;
+}
+
 .imagem{
     margin-left: 80px;
     width:495px;
