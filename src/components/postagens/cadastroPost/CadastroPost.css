@@ -1,3 +1,10 @@
 .topo{
     margin-top: 20px;
 }
+
+.botao-finalizar{
+    border: 2px #FEFDCD !important;
+    background-color: #F4A0BA !important;
+    color: #FEFDCD !important;
+    font-family:Roboto Mono, monospace !important;
+}
