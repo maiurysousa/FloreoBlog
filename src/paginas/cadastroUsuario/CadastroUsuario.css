@@ -10,7 +10,7 @@
     background-image: url('../../assets/img/page-3.jpg');
     background-repeat: no-repeat;
     width: 100vh;
-    min-height: 110vh;
+    min-height: 100vh;
     background-size: cover;
     background-position: center;
 }
