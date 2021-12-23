@@ -85,7 +85,7 @@ function Login() {
                     </form>
                     <Box display='flex' justifyContent='center' marginTop={2}>
                         <Box marginRight={1}>
-                            <Typography variant='subtitle1' gutterBottom align='center'style={{ fontFamily: 'Roboto Mono, monospace' }}>Não tem uma conta?</Typography>
+                            <Typography variant='subtitle1' gutterBottom align='center' className="conta-txt">Não tem uma conta?</Typography>
                         </Box>
 
                         <Link to="/cadastrousuario" className="text-decorator-none">
